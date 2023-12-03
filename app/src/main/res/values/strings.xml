@@ -7,9 +7,7 @@
     <string name="next">Random</string>
     <string name="previous">Previous</string>
 
-    <string name="lorem_ipsum">
-        Ez a lorem ipsumos baromság!
-    </string>
+    <string name="lorem_ipsum">Ez egy random szám 0 és %d. között:</string>
     <string name="hello">0</string>
     <string name="btn_count">Count</string>
     <string name="toast_button">Toast</string>
